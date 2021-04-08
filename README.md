@@ -4,7 +4,7 @@
 
 This is the implementation for a animated circles loading screen using the React Native Reanimated 2 library.
 
-This provides the source code used in the article: tbd..
+This provides the source code used in the article: https://chrizog.com/react-native-loading-circle-animation
 
 ## Result
 
